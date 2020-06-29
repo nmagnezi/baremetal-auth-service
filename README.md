@@ -1,0 +1,1 @@
+# baremetal-auth-service
